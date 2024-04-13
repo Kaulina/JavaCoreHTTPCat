@@ -23,22 +23,6 @@ public class Cat {
         this.upvotes = upvotes;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public String getText() {
-        return text;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public String getUser() {
-        return user;
-    }
-
     public String getUpvotes() {
         return upvotes;
     }
